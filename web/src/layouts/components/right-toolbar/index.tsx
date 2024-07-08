@@ -19,7 +19,7 @@ const Circle = ({ children, ...restProps }: React.PropsWithChildren) => {
 };
 
 const handleGithubCLick = () => {
-  window.open('https://github.com/infiniflow/ragflow', 'target');
+  window.open('http://www.ipv6next.cn', 'target');
 };
 
 const RightToolBar = () => {

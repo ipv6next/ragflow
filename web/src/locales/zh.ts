@@ -45,8 +45,8 @@ export default {
       continue: '继续',
       title: '开始构建您的智能助手',
       description:
-        '免费注册以探索顶级 RAG 技术。 创建知识库和人工智能来增强您的业务',
-      review: '来自 500 多条评论',
+        '探索顶级 RAG 技术。 创建知识库和人工智能来增强您的业务',
+      review: '基于深度理解的 RAG 引擎',
     },
     header: {
       knowledgeBase: '知识库',
